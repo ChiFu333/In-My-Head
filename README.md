@@ -1,8 +1,8 @@
 ![изображение](https://github.com/user-attachments/assets/8ec6c332-2d71-400f-bbab-7c9c40bfb674)
 
 # In My Head
-
-Март 2024
+![Static Badge](https://img.shields.io/badge/Stack-Unity_%2B_%D0%A1%23-green?color=34C924)
+![Static Badge](https://img.shields.io/badge/March_2024-8A2BE2)
 
 Данная игра была разработана в рамках [геймджема Макстера](https://itch.io/jam/maxters-jam-2024) за 3 дня.
 
